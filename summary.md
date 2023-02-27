@@ -14,4 +14,17 @@ A seconda della diversità di dipendenza funzionale e quindi della incidenza del
 Al livello più intenso si trovano le Sezioni di P.G. istituite presso le procure della Repubblica in sede di Tribunale, destinate anch'esse, in via esclusiva e con carattere di continuità, ad attività di P.G.. Le diversità tra le strutture in esame consistono: per i generici organi di P.G., nella loro destinazione sporadica ad indagini di P.G.; per i servizi e le sezioni nella destinazione permanente ed esclusiva, almeno tendenzialmente.  
 La differenza tra servizi e sezioni risiede non solo sulla diversità di ubicazione, ma anche sul diverso rapporto con la A.G.. Le sezioni di P.G., sono istituite presso ogni procura della Repubblica; i servizi, invece, presso le sedi di Questura e Comandi C.C. e G.d.F. (art. 56).  
 Le sezioni dipendono dai rispettivi procuratori della Republica presso il Tribunale.  
-Per i servizi non sussiste né la diretta dipendenza né una funzione di autorizazzione 
+Per i servizi non sussiste né la diretta dipendenza né una funzione di autorizzazione del magistrato in ordine alla destinazione ad altre attività degli appartenenti ai servizi stessi. È attribuito al procuratore della Repubblica presso il Tribunale soltanto un potere di sorveglianza e controllo sulla efficienza di tali servizi, e cioè sul modo di svolgimento dell'attività di P.G., che si esprime nella formula che l'ufficiale preposto ai servizi è responsabile verso il su indicato procuratore (art. 59).  
+La subordinazione della P.G. è limitata alle funzioni di indagine di cui all'art. 55.
+
+In conclusione:
+
+- solo una parte delle forze di polizia (polizia di Stato, carabinieri e guardia di finanza) esercita in via permanente ed esclusiva funzioni di polizia giudiziaria;
+- le articolazioni con funzioni di P.G. si suddividono in Servizi e Sezioni;
+- Servizi e Sezioni svolgono l'attività di P.G. alle dipendenze funzionali dell'A.G.; le Sezioni (ma non i Servizi) dipendono dai procuratori presso il tribunale, sussistendo per i Servizi solo la responsabilità del dirigente verso il procuratore presso il Tribunale ordinario;
+- l'autorità giudiziaria (giudici e P.M.) può avvalersi di qualsiasi ufficiale o agente di P.G., anche non inquadrato nei Servizi o nelle Sezioni, ma con tendenziale preferenza per le Sezioni e poi anche per i Servizi;
+- la subordinazione della P.G. alla autorità giudiziaria è limitata alle funzioni di indagine;
+- non esistendo un autonomo corpo di polizia giudiziaria, tutti gli ufficiali ed agenti di P.G. restano incardinati presso i rispettivi enti.
+
+## Ufficiali ed agenti di Polizia Giudiziaria: rispettiva legittimazione ad atti
+
