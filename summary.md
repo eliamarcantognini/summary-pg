@@ -89,3 +89,7 @@ La modifica dell'art. 500 c.p.p. ad opera del D.L. 306/1992, consente l'utilizza
 Strumentale allo svolgimento di indagini è la ricerca della notizia di reato (attività informativa come presupposto dell'attività investigativa).  
 La funzione repressiva della persecuzione penale si ricollega, altresì, a quella di impedire innanzitutto che il reato in atto sia portato ad ulteriori conseguenze, dovendosi interrompere la protrazione dell'attività antigiuridica (art. 55).  
 La funzione fondamentale delle indagini di PG è quella di acquisire gli elementi occorrenti per l'esercizio dell'azione penale (artt. 50, 55, 326) o, meglio, per il suo esercizio o meno. Una esigenza di completezza impone alla PG anche di raccogliere quant'altro possa servire per l'applicazione della legge penale. La strumentalizzazione delle indagini di PG all'eserizio dell'azione penale trova riscontro nella posizione strumentale degli apparati di PG rispetto al PM, che ai primi impartisce direttive (cd. temi di indagine) ovvero delega specifici atti (art. 348), qualora non ritenga di svolgere direttamente le indagini (art. 326).
+
+# L'arresto e il fermo di Polizia Giudiziaria
+
+## Le misure precautelari
